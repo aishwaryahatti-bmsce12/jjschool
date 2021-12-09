@@ -1,0 +1,55 @@
+body::before {
+    display: block;
+    content: '';
+    height: 60px;
+  }
+  
+  #map {
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+  }
+  
+  @media (min-width: 768px) {
+    .news-input {
+      width: 50%;
+    }
+  }
+#logo{
+    padding: 0.5rem;
+}
+
+#colname{
+    font-family: sans-serif;
+}
+
+
+#navbar{
+    padding: 1rem;
+}
+
+#welcomesec{
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    
+}
+
+#welcome{
+    padding-top: 2.5rem;
+}
+
+#about{
+  color: brown;
+}
+#same{
+color: brown;
+}
+#some{
+  color:brown;
+}
+#set{
+  color: brown;
+}
+#gave{
+  color: brown;
+}
